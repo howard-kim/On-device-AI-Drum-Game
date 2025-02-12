@@ -1,6 +1,5 @@
 # DRUM SIMULATION
 ## Description
-Open Source Software Practice course, SKKU 2024
 Small Drum Simulation Game for all platforms
 해당 프로젝트는 Flutter & Dart을 이용한 Cross Platform Application이며, Flame Game Engine을 이용해 개발했습니다.
 Flutter와 Riverpod을 사용하여 상태 관리를 구현하였으며, Flame 엔진을 사용하여 게임 그래픽과 애니메이션을 처리합니다.
